@@ -1,6 +1,6 @@
 let configData = {
-    //能源产品快速开发平台v2
-    title: 'NSC Framework',
+    //登录界面项目名称
+    loginProjectName: 'NSC Framework',
     //系统指纹，登录时候需要传递
     authorization: "Basic bnNjOm5zYw==",
     //登陆界面URL
