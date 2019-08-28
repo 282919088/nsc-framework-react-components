@@ -1,0 +1,19 @@
+# dependencies
+**/node_modules
+
+# production
+**/lib
+/dist
+/.vscode
+/.svn
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+# umi
+.umi
+.umi-production
+
+build
