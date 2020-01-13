@@ -1,6 +1,6 @@
 {
   "name": "nsc-framework-react-components",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "洛斯达react前端框架组件",
   "main": "lib/index.js",
   "scripts": {

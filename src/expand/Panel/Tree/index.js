@@ -105,7 +105,7 @@ class NscTree extends TreePanel {
             props[field.name] = item[field.name];
         })
         if (renderFn) {
-            props = utils.callback(renderFn, this, [props]);
+            props = utils.callback(renderFn, this, [props, item]);
         }
         if (item.childNodes) {
             return (

@@ -1,4 +1,5 @@
 import isEqual from 'lodash/isEqual';
+import React from 'react';
 
 /**
  * 获取面包屑映射
